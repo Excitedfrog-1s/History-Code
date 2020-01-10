@@ -1,0 +1,6 @@
+F:\VS Project\Prototype Winform\Directory类\bin\Debug\Directory类.exe.config
+F:\VS Project\Prototype Winform\Directory类\bin\Debug\Directory类.exe
+F:\VS Project\Prototype Winform\Directory类\bin\Debug\Directory类.pdb
+F:\VS Project\Prototype Winform\Directory类\obj\Debug\Directory类.csprojResolveAssemblyReference.cache
+F:\VS Project\Prototype Winform\Directory类\obj\Debug\Directory类.exe
+F:\VS Project\Prototype Winform\Directory类\obj\Debug\Directory类.pdb

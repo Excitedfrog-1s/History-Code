@@ -1,0 +1,10 @@
+F:\VS Project\HLY C#\Prototype\值类型和引用类型\bin\Debug\值类型和引用类型.exe.config
+F:\VS Project\HLY C#\Prototype\值类型和引用类型\bin\Debug\值类型和引用类型.exe
+F:\VS Project\HLY C#\Prototype\值类型和引用类型\bin\Debug\值类型和引用类型.pdb
+F:\VS Project\HLY C#\Prototype\值类型和引用类型\obj\Debug\值类型和引用类型.exe
+F:\VS Project\HLY C#\Prototype\值类型和引用类型\obj\Debug\值类型和引用类型.pdb
+F:\VS Project\HLY C#\Prototype\值类型和引用类型\bin\Debug\值类型和引用类型.exe.CodeAnalysisLog.xml
+F:\VS Project\HLY C#\Prototype\值类型和引用类型\bin\Debug\值类型和引用类型.exe.lastcodeanalysissucceeded
+F:\VS Project\HLY C#\Prototype Console\值类型和引用类型\bin\Debug\值类型和引用类型.exe.config
+F:\VS Project\HLY C#\Prototype Console\值类型和引用类型\obj\Debug\值类型和引用类型.exe
+F:\VS Project\HLY C#\Prototype Console\值类型和引用类型\obj\Debug\值类型和引用类型.pdb

@@ -1,0 +1,9 @@
+F:\VS Project\Prototype Winform\使用GDI绘制验证码\bin\Debug\使用GDI绘制验证码.exe.config
+F:\VS Project\Prototype Winform\使用GDI绘制验证码\bin\Debug\使用GDI绘制验证码.exe
+F:\VS Project\Prototype Winform\使用GDI绘制验证码\bin\Debug\使用GDI绘制验证码.pdb
+F:\VS Project\Prototype Winform\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.csprojResolveAssemblyReference.cache
+F:\VS Project\Prototype Winform\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.Form1.resources
+F:\VS Project\Prototype Winform\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.Properties.Resources.resources
+F:\VS Project\Prototype Winform\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.csproj.GenerateResource.Cache
+F:\VS Project\Prototype Winform\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.exe
+F:\VS Project\Prototype Winform\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.pdb

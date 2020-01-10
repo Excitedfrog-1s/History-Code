@@ -1,0 +1,11 @@
+F:\VS Project\HLY C#\Prototype\抽象类练习\bin\Debug\抽象类练习.exe.config
+F:\VS Project\HLY C#\Prototype\抽象类练习\obj\Debug\抽象类练习.csprojResolveAssemblyReference.cache
+F:\VS Project\HLY C#\Prototype\抽象类练习\bin\Debug\抽象类练习.exe
+F:\VS Project\HLY C#\Prototype\抽象类练习\bin\Debug\抽象类练习.pdb
+F:\VS Project\HLY C#\Prototype\抽象类练习\obj\Debug\抽象类练习.exe
+F:\VS Project\HLY C#\Prototype\抽象类练习\obj\Debug\抽象类练习.pdb
+F:\VS Project\HLY C#\Prototype\抽象类练习\bin\Debug\抽象类练习.exe.CodeAnalysisLog.xml
+F:\VS Project\HLY C#\Prototype\抽象类练习\bin\Debug\抽象类练习.exe.lastcodeanalysissucceeded
+F:\VS Project\HLY C#\Prototype Console\抽象类练习\bin\Debug\抽象类练习.exe.config
+F:\VS Project\HLY C#\Prototype Console\抽象类练习\obj\Debug\抽象类练习.exe
+F:\VS Project\HLY C#\Prototype Console\抽象类练习\obj\Debug\抽象类练习.pdb

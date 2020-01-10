@@ -1,0 +1,8 @@
+F:\VS Project\HLY C#\Prototype\显示实现接口\bin\Debug\显示实现接口.exe.config
+F:\VS Project\HLY C#\Prototype\显示实现接口\bin\Debug\显示实现接口.exe
+F:\VS Project\HLY C#\Prototype\显示实现接口\bin\Debug\显示实现接口.pdb
+F:\VS Project\HLY C#\Prototype\显示实现接口\obj\Debug\显示实现接口.exe
+F:\VS Project\HLY C#\Prototype\显示实现接口\obj\Debug\显示实现接口.pdb
+F:\VS Project\HLY C#\Prototype Console\显示实现接口\bin\Debug\显示实现接口.exe.config
+F:\VS Project\HLY C#\Prototype Console\显示实现接口\obj\Debug\显示实现接口.exe
+F:\VS Project\HLY C#\Prototype Console\显示实现接口\obj\Debug\显示实现接口.pdb

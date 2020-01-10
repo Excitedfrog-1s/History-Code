@@ -1,0 +1,6 @@
+F:\VS Project\HLY C#\Canshu\Canshu\bin\Debug\Canshu.exe.config
+F:\VS Project\HLY C#\Canshu\Canshu\obj\Debug\Canshu.csprojResolveAssemblyReference.cache
+F:\VS Project\HLY C#\Canshu\Canshu\bin\Debug\Canshu.exe
+F:\VS Project\HLY C#\Canshu\Canshu\bin\Debug\Canshu.pdb
+F:\VS Project\HLY C#\Canshu\Canshu\obj\Debug\Canshu.exe
+F:\VS Project\HLY C#\Canshu\Canshu\obj\Debug\Canshu.pdb

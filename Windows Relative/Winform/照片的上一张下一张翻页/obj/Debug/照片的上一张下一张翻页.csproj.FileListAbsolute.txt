@@ -1,0 +1,8 @@
+F:\VS Project\Prototype Winform\照片的上一张下一张翻页\bin\Debug\照片的上一张下一张翻页.exe.config
+F:\VS Project\Prototype Winform\照片的上一张下一张翻页\bin\Debug\照片的上一张下一张翻页.exe
+F:\VS Project\Prototype Winform\照片的上一张下一张翻页\bin\Debug\照片的上一张下一张翻页.pdb
+F:\VS Project\Prototype Winform\照片的上一张下一张翻页\obj\Debug\照片的上一张下一张翻页.Form1.resources
+F:\VS Project\Prototype Winform\照片的上一张下一张翻页\obj\Debug\照片的上一张下一张翻页.Properties.Resources.resources
+F:\VS Project\Prototype Winform\照片的上一张下一张翻页\obj\Debug\照片的上一张下一张翻页.csproj.GenerateResource.Cache
+F:\VS Project\Prototype Winform\照片的上一张下一张翻页\obj\Debug\照片的上一张下一张翻页.exe
+F:\VS Project\Prototype Winform\照片的上一张下一张翻页\obj\Debug\照片的上一张下一张翻页.pdb

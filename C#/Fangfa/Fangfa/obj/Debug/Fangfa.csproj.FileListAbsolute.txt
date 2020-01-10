@@ -1,0 +1,2 @@
+F:\VS Project\HLY C#\Fangfa\Fangfa\bin\Debug\Fangfa.exe.config
+F:\VS Project\HLY C#\Fangfa\Fangfa\obj\Debug\Fangfa.csprojResolveAssemblyReference.cache

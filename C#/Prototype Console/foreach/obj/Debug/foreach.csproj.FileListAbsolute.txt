@@ -1,0 +1,5 @@
+F:\VS Project\HLY C#\Prototype\foreach\bin\Debug\@foreach.exe.config
+F:\VS Project\HLY C#\Prototype\foreach\bin\Debug\@foreach.exe
+F:\VS Project\HLY C#\Prototype\foreach\bin\Debug\@foreach.pdb
+F:\VS Project\HLY C#\Prototype\foreach\obj\Debug\@foreach.exe
+F:\VS Project\HLY C#\Prototype\foreach\obj\Debug\@foreach.pdb

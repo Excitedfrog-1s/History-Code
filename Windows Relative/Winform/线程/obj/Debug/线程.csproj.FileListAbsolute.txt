@@ -1,0 +1,8 @@
+F:\VS Project\Prototype Winform\线程\bin\Debug\线程.exe.config
+F:\VS Project\Prototype Winform\线程\bin\Debug\线程.exe
+F:\VS Project\Prototype Winform\线程\bin\Debug\线程.pdb
+F:\VS Project\Prototype Winform\线程\obj\Debug\线程.Form1.resources
+F:\VS Project\Prototype Winform\线程\obj\Debug\线程.Properties.Resources.resources
+F:\VS Project\Prototype Winform\线程\obj\Debug\线程.csproj.GenerateResource.Cache
+F:\VS Project\Prototype Winform\线程\obj\Debug\线程.exe
+F:\VS Project\Prototype Winform\线程\obj\Debug\线程.pdb

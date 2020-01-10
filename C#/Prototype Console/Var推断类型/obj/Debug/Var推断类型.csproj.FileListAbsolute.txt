@@ -1,0 +1,5 @@
+F:\VS Project\HLY C#\Prototype\Var推断类型\bin\Debug\Var推断类型.exe.config
+F:\VS Project\HLY C#\Prototype\Var推断类型\bin\Debug\Var推断类型.exe
+F:\VS Project\HLY C#\Prototype\Var推断类型\bin\Debug\Var推断类型.pdb
+F:\VS Project\HLY C#\Prototype\Var推断类型\obj\Debug\Var推断类型.exe
+F:\VS Project\HLY C#\Prototype\Var推断类型\obj\Debug\Var推断类型.pdb

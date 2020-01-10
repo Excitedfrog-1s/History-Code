@@ -1,0 +1,8 @@
+F:\VS Project\HLY C#\Prototype\接口\bin\Debug\接口.exe.config
+F:\VS Project\HLY C#\Prototype\接口\bin\Debug\接口.exe
+F:\VS Project\HLY C#\Prototype\接口\bin\Debug\接口.pdb
+F:\VS Project\HLY C#\Prototype\接口\obj\Debug\接口.exe
+F:\VS Project\HLY C#\Prototype\接口\obj\Debug\接口.pdb
+F:\VS Project\HLY C#\Prototype Console\接口\bin\Debug\接口.exe.config
+F:\VS Project\HLY C#\Prototype Console\接口\obj\Debug\接口.exe
+F:\VS Project\HLY C#\Prototype Console\接口\obj\Debug\接口.pdb

@@ -1,0 +1,1 @@
+F:\VS Project\HLY C#\Prototype\FileStream\bin\Debug\FileStream.exe.config

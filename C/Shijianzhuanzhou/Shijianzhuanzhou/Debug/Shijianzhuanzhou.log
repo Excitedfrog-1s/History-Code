@@ -1,0 +1,73 @@
+﻿生成启动时间为 2015/3/18 星期三 15:55:27。
+     1>项目“F:\VS Project\HLY C\Shijianzhuanzhou\Shijianzhuanzhou\Shijianzhuanzhou.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt yuan.c
+         yuan.c
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(100): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(120): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(122): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(125): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(131): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(135): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(141): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(145): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(151): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(175): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(179): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(195): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(223): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(227): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(245): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(273): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(278): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(280): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(283): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(288): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(293): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(298): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(303): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(308): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(412): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(453): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(457): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(459): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(481): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\vs project\hly c\shijianzhuanzhou\shijianzhuanzhou\yuan.c(487): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio\vc\include\stdio.h(283) : 参见“scanf”的声明
+       Link:
+         D:\Microsoft Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\VS Project\HLY C\Shijianzhuanzhou\Debug\Shijianzhuanzhou.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\VS Project\HLY C\Shijianzhuanzhou\Debug\Shijianzhuanzhou.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\VS Project\HLY C\Shijianzhuanzhou\Debug\Shijianzhuanzhou.lib" /MACHINE:X86 Debug\yuan.obj
+         Shijianzhuanzhou.vcxproj -> F:\VS Project\HLY C\Shijianzhuanzhou\Debug\Shijianzhuanzhou.exe
+     1>已完成生成项目“F:\VS Project\HLY C\Shijianzhuanzhou\Shijianzhuanzhou\Shijianzhuanzhou.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.35

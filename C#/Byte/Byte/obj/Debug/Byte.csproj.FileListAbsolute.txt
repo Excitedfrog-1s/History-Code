@@ -1,0 +1,6 @@
+F:\VS Project\HLY C#\Byte\Byte\bin\Debug\Byte.exe.config
+F:\VS Project\HLY C#\Byte\Byte\bin\Debug\Byte.exe
+F:\VS Project\HLY C#\Byte\Byte\bin\Debug\Byte.pdb
+F:\VS Project\HLY C#\Byte\Byte\obj\Debug\Byte.exe
+F:\VS Project\HLY C#\Byte\Byte\obj\Debug\Byte.pdb
+F:\VS Project\HLY C#\Byte\Byte\obj\Debug\Byte.csprojResolveAssemblyReference.cache

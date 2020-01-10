@@ -1,0 +1,11 @@
+F:\VS Project\HLY C#\Prototype\装箱和拆箱\bin\Debug\装箱和拆箱.exe.config
+F:\VS Project\HLY C#\Prototype\装箱和拆箱\bin\Debug\装箱和拆箱.exe
+F:\VS Project\HLY C#\Prototype\装箱和拆箱\bin\Debug\装箱和拆箱.pdb
+F:\VS Project\HLY C#\Prototype\装箱和拆箱\obj\Debug\装箱和拆箱.csprojResolveAssemblyReference.cache
+F:\VS Project\HLY C#\Prototype\装箱和拆箱\obj\Debug\装箱和拆箱.exe
+F:\VS Project\HLY C#\Prototype\装箱和拆箱\obj\Debug\装箱和拆箱.pdb
+F:\VS Project\HLY C#\Prototype\装箱和拆箱\bin\Debug\装箱和拆箱.exe.CodeAnalysisLog.xml
+F:\VS Project\HLY C#\Prototype\装箱和拆箱\bin\Debug\装箱和拆箱.exe.lastcodeanalysissucceeded
+F:\VS Project\HLY C#\Prototype Console\装箱和拆箱\bin\Debug\装箱和拆箱.exe.config
+F:\VS Project\HLY C#\Prototype Console\装箱和拆箱\obj\Debug\装箱和拆箱.exe
+F:\VS Project\HLY C#\Prototype Console\装箱和拆箱\obj\Debug\装箱和拆箱.pdb

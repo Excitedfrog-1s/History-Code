@@ -1,0 +1,8 @@
+F:\VS Project\Prototype Winform\简单记事本\bin\Debug\简单记事本.exe.config
+F:\VS Project\Prototype Winform\简单记事本\bin\Debug\简单记事本.exe
+F:\VS Project\Prototype Winform\简单记事本\bin\Debug\简单记事本.pdb
+F:\VS Project\Prototype Winform\简单记事本\obj\Debug\简单记事本.Form1.resources
+F:\VS Project\Prototype Winform\简单记事本\obj\Debug\简单记事本.Properties.Resources.resources
+F:\VS Project\Prototype Winform\简单记事本\obj\Debug\简单记事本.csproj.GenerateResource.Cache
+F:\VS Project\Prototype Winform\简单记事本\obj\Debug\简单记事本.exe
+F:\VS Project\Prototype Winform\简单记事本\obj\Debug\简单记事本.pdb

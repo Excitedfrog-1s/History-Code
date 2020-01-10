@@ -1,0 +1,531 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		24B7E74C1D2E2C4B00041253 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 24B7E74B1D2E2C4B00041253 /* main.m */; };
+		24B7E74F1D2E2C4B00041253 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 24B7E74E1D2E2C4B00041253 /* AppDelegate.m */; };
+		24B7E7551D2E2C4B00041253 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7531D2E2C4B00041253 /* Main.storyboard */; };
+		24B7E7571D2E2C4B00041253 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7561D2E2C4B00041253 /* Assets.xcassets */; };
+		24B7E75A1D2E2C4B00041253 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7581D2E2C4B00041253 /* LaunchScreen.storyboard */; };
+		24B7E7631D2E2DB800041253 /* TabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24B7E7621D2E2DB800041253 /* TabBarController.m */; };
+		24B7E76D1D2E30CB00041253 /* WechatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24B7E76C1D2E30CB00041253 /* WechatViewController.m */; };
+		24B7E7701D2E30D800041253 /* ContactsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24B7E76F1D2E30D800041253 /* ContactsViewController.m */; };
+		24B7E7731D2E30E300041253 /* DiscoveryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24B7E7721D2E30E300041253 /* DiscoveryViewController.m */; };
+		24B7E7761D2E30EC00041253 /* MeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24B7E7751D2E30EC00041253 /* MeViewController.m */; };
+		24B7E79C1D2E3EC400041253 /* AE1286066624165654BE4BE843AB8B80.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7781D2E3EC400041253 /* AE1286066624165654BE4BE843AB8B80.png */; };
+		24B7E79D1D2E3EC400041253 /* AlbumCommentHorizontalLine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7791D2E3EC400041253 /* AlbumCommentHorizontalLine@2x.png */; };
+		24B7E79E1D2E3EC400041253 /* aroundfriends_bar_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E77A1D2E3EC400041253 /* aroundfriends_bar_bg@2x.png */; };
+		24B7E79F1D2E3EC400041253 /* CE5E089465BD6BE881BD272CA0F36A23.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E77B1D2E3EC400041253 /* CE5E089465BD6BE881BD272CA0F36A23.png */; };
+		24B7E7A01D2E3EC400041253 /* AppIcon29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E77D1D2E3EC400041253 /* AppIcon29x29@2x.png */; };
+		24B7E7A11D2E3EC400041253 /* AppIcon29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E77E1D2E3EC400041253 /* AppIcon29x29@3x.png */; };
+		24B7E7A21D2E3EC400041253 /* AppIcon40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E77F1D2E3EC400041253 /* AppIcon40x40@2x.png */; };
+		24B7E7A31D2E3EC400041253 /* AppIcon40x40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7801D2E3EC400041253 /* AppIcon40x40@3x.png */; };
+		24B7E7A41D2E3EC400041253 /* AppIcon60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7811D2E3EC400041253 /* AppIcon60x60@2x.png */; };
+		24B7E7A51D2E3EC400041253 /* AppIcon60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7821D2E3EC400041253 /* AppIcon60x60@3x.png */; };
+		24B7E7A61D2E3EC400041253 /* 2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7841D2E3EC400041253 /* 2x.png */; };
+		24B7E7A71D2E3EC400041253 /* HD4.7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7851D2E3EC400041253 /* HD4.7@2x.png */; };
+		24B7E7A81D2E3EC400041253 /* Retin4.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7861D2E3EC400041253 /* Retin4.png */; };
+		24B7E7A91D2E3EC400041253 /* RetinHD5.5.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7871D2E3EC400041253 /* RetinHD5.5.png */; };
+		24B7E7AA1D2E3EC400041253 /* tabbar_badge@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7891D2E3EC400041253 /* tabbar_badge@2x.png */; };
+		24B7E7AB1D2E3EC400041253 /* tabbar_badge@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E78A1D2E3EC400041253 /* tabbar_badge@3x.png */; };
+		24B7E7AC1D2E3EC400041253 /* tabbar_contacts@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E78B1D2E3EC400041253 /* tabbar_contacts@2x.png */; };
+		24B7E7AD1D2E3EC400041253 /* tabbar_contacts@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E78C1D2E3EC400041253 /* tabbar_contacts@3x.png */; };
+		24B7E7AE1D2E3EC400041253 /* tabbar_contactsHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E78D1D2E3EC400041253 /* tabbar_contactsHL@2x.png */; };
+		24B7E7AF1D2E3EC400041253 /* tabbar_contactsHL@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E78E1D2E3EC400041253 /* tabbar_contactsHL@3x.png */; };
+		24B7E7B01D2E3EC400041253 /* tabbar_discover@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E78F1D2E3EC400041253 /* tabbar_discover@2x.png */; };
+		24B7E7B11D2E3EC400041253 /* tabbar_discover@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7901D2E3EC400041253 /* tabbar_discover@3x.png */; };
+		24B7E7B21D2E3EC400041253 /* tabbar_discoverHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7911D2E3EC400041253 /* tabbar_discoverHL@2x.png */; };
+		24B7E7B31D2E3EC400041253 /* tabbar_discoverHL@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7921D2E3EC400041253 /* tabbar_discoverHL@3x.png */; };
+		24B7E7B41D2E3EC400041253 /* tabbar_mainframe@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7931D2E3EC400041253 /* tabbar_mainframe@2x.png */; };
+		24B7E7B51D2E3EC400041253 /* tabbar_mainframe@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7941D2E3EC400041253 /* tabbar_mainframe@3x.png */; };
+		24B7E7B61D2E3EC400041253 /* tabbar_mainframeHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7951D2E3EC400041253 /* tabbar_mainframeHL@2x.png */; };
+		24B7E7B71D2E3EC400041253 /* tabbar_mainframeHL@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7961D2E3EC400041253 /* tabbar_mainframeHL@3x.png */; };
+		24B7E7B81D2E3EC400041253 /* tabbar_me@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7971D2E3EC400041253 /* tabbar_me@2x.png */; };
+		24B7E7B91D2E3EC400041253 /* tabbar_me@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7981D2E3EC400041253 /* tabbar_me@3x.png */; };
+		24B7E7BA1D2E3EC400041253 /* tabbar_meHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E7991D2E3EC400041253 /* tabbar_meHL@2x.png */; };
+		24B7E7BB1D2E3EC400041253 /* tabbar_meHL@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E79A1D2E3EC400041253 /* tabbar_meHL@3x.png */; };
+		24B7E7BC1D2E3EC400041253 /* tabbarBkg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B7E79B1D2E3EC400041253 /* tabbarBkg@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		24B7E7471D2E2C4B00041253 /* Wechat Code Edition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Wechat Code Edition.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		24B7E74B1D2E2C4B00041253 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		24B7E74D1D2E2C4B00041253 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		24B7E74E1D2E2C4B00041253 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		24B7E7541D2E2C4B00041253 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		24B7E7561D2E2C4B00041253 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		24B7E7591D2E2C4B00041253 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		24B7E75B1D2E2C4B00041253 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24B7E7611D2E2DB800041253 /* TabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabBarController.h; sourceTree = "<group>"; };
+		24B7E7621D2E2DB800041253 /* TabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabBarController.m; sourceTree = "<group>"; };
+		24B7E76B1D2E30CB00041253 /* WechatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WechatViewController.h; sourceTree = "<group>"; };
+		24B7E76C1D2E30CB00041253 /* WechatViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WechatViewController.m; sourceTree = "<group>"; };
+		24B7E76E1D2E30D800041253 /* ContactsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactsViewController.h; sourceTree = "<group>"; };
+		24B7E76F1D2E30D800041253 /* ContactsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactsViewController.m; sourceTree = "<group>"; };
+		24B7E7711D2E30E300041253 /* DiscoveryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DiscoveryViewController.h; sourceTree = "<group>"; };
+		24B7E7721D2E30E300041253 /* DiscoveryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DiscoveryViewController.m; sourceTree = "<group>"; };
+		24B7E7741D2E30EC00041253 /* MeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeViewController.h; sourceTree = "<group>"; };
+		24B7E7751D2E30EC00041253 /* MeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MeViewController.m; sourceTree = "<group>"; };
+		24B7E7781D2E3EC400041253 /* AE1286066624165654BE4BE843AB8B80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AE1286066624165654BE4BE843AB8B80.png; sourceTree = "<group>"; };
+		24B7E7791D2E3EC400041253 /* AlbumCommentHorizontalLine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AlbumCommentHorizontalLine@2x.png"; sourceTree = "<group>"; };
+		24B7E77A1D2E3EC400041253 /* aroundfriends_bar_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aroundfriends_bar_bg@2x.png"; sourceTree = "<group>"; };
+		24B7E77B1D2E3EC400041253 /* CE5E089465BD6BE881BD272CA0F36A23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CE5E089465BD6BE881BD272CA0F36A23.png; sourceTree = "<group>"; };
+		24B7E77D1D2E3EC400041253 /* AppIcon29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon29x29@2x.png"; sourceTree = "<group>"; };
+		24B7E77E1D2E3EC400041253 /* AppIcon29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon29x29@3x.png"; sourceTree = "<group>"; };
+		24B7E77F1D2E3EC400041253 /* AppIcon40x40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon40x40@2x.png"; sourceTree = "<group>"; };
+		24B7E7801D2E3EC400041253 /* AppIcon40x40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon40x40@3x.png"; sourceTree = "<group>"; };
+		24B7E7811D2E3EC400041253 /* AppIcon60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon60x60@2x.png"; sourceTree = "<group>"; };
+		24B7E7821D2E3EC400041253 /* AppIcon60x60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon60x60@3x.png"; sourceTree = "<group>"; };
+		24B7E7841D2E3EC400041253 /* 2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2x.png; sourceTree = "<group>"; };
+		24B7E7851D2E3EC400041253 /* HD4.7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "HD4.7@2x.png"; sourceTree = "<group>"; };
+		24B7E7861D2E3EC400041253 /* Retin4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Retin4.png; sourceTree = "<group>"; };
+		24B7E7871D2E3EC400041253 /* RetinHD5.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RetinHD5.5.png; sourceTree = "<group>"; };
+		24B7E7891D2E3EC400041253 /* tabbar_badge@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_badge@2x.png"; sourceTree = "<group>"; };
+		24B7E78A1D2E3EC400041253 /* tabbar_badge@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_badge@3x.png"; sourceTree = "<group>"; };
+		24B7E78B1D2E3EC400041253 /* tabbar_contacts@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_contacts@2x.png"; sourceTree = "<group>"; };
+		24B7E78C1D2E3EC400041253 /* tabbar_contacts@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_contacts@3x.png"; sourceTree = "<group>"; };
+		24B7E78D1D2E3EC400041253 /* tabbar_contactsHL@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_contactsHL@2x.png"; sourceTree = "<group>"; };
+		24B7E78E1D2E3EC400041253 /* tabbar_contactsHL@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_contactsHL@3x.png"; sourceTree = "<group>"; };
+		24B7E78F1D2E3EC400041253 /* tabbar_discover@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_discover@2x.png"; sourceTree = "<group>"; };
+		24B7E7901D2E3EC400041253 /* tabbar_discover@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_discover@3x.png"; sourceTree = "<group>"; };
+		24B7E7911D2E3EC400041253 /* tabbar_discoverHL@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_discoverHL@2x.png"; sourceTree = "<group>"; };
+		24B7E7921D2E3EC400041253 /* tabbar_discoverHL@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_discoverHL@3x.png"; sourceTree = "<group>"; };
+		24B7E7931D2E3EC400041253 /* tabbar_mainframe@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_mainframe@2x.png"; sourceTree = "<group>"; };
+		24B7E7941D2E3EC400041253 /* tabbar_mainframe@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_mainframe@3x.png"; sourceTree = "<group>"; };
+		24B7E7951D2E3EC400041253 /* tabbar_mainframeHL@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_mainframeHL@2x.png"; sourceTree = "<group>"; };
+		24B7E7961D2E3EC400041253 /* tabbar_mainframeHL@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_mainframeHL@3x.png"; sourceTree = "<group>"; };
+		24B7E7971D2E3EC400041253 /* tabbar_me@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_me@2x.png"; sourceTree = "<group>"; };
+		24B7E7981D2E3EC400041253 /* tabbar_me@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_me@3x.png"; sourceTree = "<group>"; };
+		24B7E7991D2E3EC400041253 /* tabbar_meHL@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_meHL@2x.png"; sourceTree = "<group>"; };
+		24B7E79A1D2E3EC400041253 /* tabbar_meHL@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_meHL@3x.png"; sourceTree = "<group>"; };
+		24B7E79B1D2E3EC400041253 /* tabbarBkg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbarBkg@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		24B7E7441D2E2C4B00041253 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		24B7E73E1D2E2C4B00041253 = {
+			isa = PBXGroup;
+			children = (
+				24B7E7491D2E2C4B00041253 /* Wechat Code Edition */,
+				24B7E7481D2E2C4B00041253 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		24B7E7481D2E2C4B00041253 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				24B7E7471D2E2C4B00041253 /* Wechat Code Edition.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		24B7E7491D2E2C4B00041253 /* Wechat Code Edition */ = {
+			isa = PBXGroup;
+			children = (
+				24B7E7771D2E3EC400041253 /* Resources */,
+				24B7E74D1D2E2C4B00041253 /* AppDelegate.h */,
+				24B7E74E1D2E2C4B00041253 /* AppDelegate.m */,
+				24B7E7531D2E2C4B00041253 /* Main.storyboard */,
+				24B7E7611D2E2DB800041253 /* TabBarController.h */,
+				24B7E7621D2E2DB800041253 /* TabBarController.m */,
+				24B7E7671D2E2EC100041253 /* Me */,
+				24B7E7661D2E2EBA00041253 /* Discovery */,
+				24B7E7651D2E2EB300041253 /* Contacts */,
+				24B7E7641D2E2E6500041253 /* Wechat */,
+				24B7E7561D2E2C4B00041253 /* Assets.xcassets */,
+				24B7E7581D2E2C4B00041253 /* LaunchScreen.storyboard */,
+				24B7E75B1D2E2C4B00041253 /* Info.plist */,
+				24B7E74A1D2E2C4B00041253 /* Supporting Files */,
+			);
+			path = "Wechat Code Edition";
+			sourceTree = "<group>";
+		};
+		24B7E74A1D2E2C4B00041253 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				24B7E74B1D2E2C4B00041253 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		24B7E7641D2E2E6500041253 /* Wechat */ = {
+			isa = PBXGroup;
+			children = (
+				24B7E76B1D2E30CB00041253 /* WechatViewController.h */,
+				24B7E76C1D2E30CB00041253 /* WechatViewController.m */,
+			);
+			path = Wechat;
+			sourceTree = "<group>";
+		};
+		24B7E7651D2E2EB300041253 /* Contacts */ = {
+			isa = PBXGroup;
+			children = (
+				24B7E76E1D2E30D800041253 /* ContactsViewController.h */,
+				24B7E76F1D2E30D800041253 /* ContactsViewController.m */,
+			);
+			path = Contacts;
+			sourceTree = "<group>";
+		};
+		24B7E7661D2E2EBA00041253 /* Discovery */ = {
+			isa = PBXGroup;
+			children = (
+				24B7E7711D2E30E300041253 /* DiscoveryViewController.h */,
+				24B7E7721D2E30E300041253 /* DiscoveryViewController.m */,
+			);
+			path = Discovery;
+			sourceTree = "<group>";
+		};
+		24B7E7671D2E2EC100041253 /* Me */ = {
+			isa = PBXGroup;
+			children = (
+				24B7E7741D2E30EC00041253 /* MeViewController.h */,
+				24B7E7751D2E30EC00041253 /* MeViewController.m */,
+			);
+			path = Me;
+			sourceTree = "<group>";
+		};
+		24B7E7771D2E3EC400041253 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				24B7E7781D2E3EC400041253 /* AE1286066624165654BE4BE843AB8B80.png */,
+				24B7E7791D2E3EC400041253 /* AlbumCommentHorizontalLine@2x.png */,
+				24B7E77A1D2E3EC400041253 /* aroundfriends_bar_bg@2x.png */,
+				24B7E77B1D2E3EC400041253 /* CE5E089465BD6BE881BD272CA0F36A23.png */,
+				24B7E77C1D2E3EC400041253 /* icon */,
+				24B7E7831D2E3EC400041253 /* Launch */,
+				24B7E7881D2E3EC400041253 /* tabBar */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		24B7E77C1D2E3EC400041253 /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				24B7E77D1D2E3EC400041253 /* AppIcon29x29@2x.png */,
+				24B7E77E1D2E3EC400041253 /* AppIcon29x29@3x.png */,
+				24B7E7801D2E3EC400041253 /* AppIcon40x40@3x.png */,
+				24B7E77F1D2E3EC400041253 /* AppIcon40x40@2x.png */,
+				24B7E7811D2E3EC400041253 /* AppIcon60x60@2x.png */,
+				24B7E7821D2E3EC400041253 /* AppIcon60x60@3x.png */,
+			);
+			path = icon;
+			sourceTree = "<group>";
+		};
+		24B7E7831D2E3EC400041253 /* Launch */ = {
+			isa = PBXGroup;
+			children = (
+				24B7E7841D2E3EC400041253 /* 2x.png */,
+				24B7E7851D2E3EC400041253 /* HD4.7@2x.png */,
+				24B7E7861D2E3EC400041253 /* Retin4.png */,
+				24B7E7871D2E3EC400041253 /* RetinHD5.5.png */,
+			);
+			path = Launch;
+			sourceTree = "<group>";
+		};
+		24B7E7881D2E3EC400041253 /* tabBar */ = {
+			isa = PBXGroup;
+			children = (
+				24B7E7891D2E3EC400041253 /* tabbar_badge@2x.png */,
+				24B7E78A1D2E3EC400041253 /* tabbar_badge@3x.png */,
+				24B7E78B1D2E3EC400041253 /* tabbar_contacts@2x.png */,
+				24B7E78C1D2E3EC400041253 /* tabbar_contacts@3x.png */,
+				24B7E78D1D2E3EC400041253 /* tabbar_contactsHL@2x.png */,
+				24B7E78E1D2E3EC400041253 /* tabbar_contactsHL@3x.png */,
+				24B7E78F1D2E3EC400041253 /* tabbar_discover@2x.png */,
+				24B7E7901D2E3EC400041253 /* tabbar_discover@3x.png */,
+				24B7E7911D2E3EC400041253 /* tabbar_discoverHL@2x.png */,
+				24B7E7921D2E3EC400041253 /* tabbar_discoverHL@3x.png */,
+				24B7E7931D2E3EC400041253 /* tabbar_mainframe@2x.png */,
+				24B7E7941D2E3EC400041253 /* tabbar_mainframe@3x.png */,
+				24B7E7951D2E3EC400041253 /* tabbar_mainframeHL@2x.png */,
+				24B7E7961D2E3EC400041253 /* tabbar_mainframeHL@3x.png */,
+				24B7E7971D2E3EC400041253 /* tabbar_me@2x.png */,
+				24B7E7981D2E3EC400041253 /* tabbar_me@3x.png */,
+				24B7E7991D2E3EC400041253 /* tabbar_meHL@2x.png */,
+				24B7E79A1D2E3EC400041253 /* tabbar_meHL@3x.png */,
+				24B7E79B1D2E3EC400041253 /* tabbarBkg@2x.png */,
+			);
+			path = tabBar;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		24B7E7461D2E2C4B00041253 /* Wechat Code Edition */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24B7E75E1D2E2C4B00041253 /* Build configuration list for PBXNativeTarget "Wechat Code Edition" */;
+			buildPhases = (
+				24B7E7431D2E2C4B00041253 /* Sources */,
+				24B7E7441D2E2C4B00041253 /* Frameworks */,
+				24B7E7451D2E2C4B00041253 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Wechat Code Edition";
+			productName = "Wechat Code Edition";
+			productReference = 24B7E7471D2E2C4B00041253 /* Wechat Code Edition.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		24B7E73F1D2E2C4B00041253 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = HA;
+				TargetAttributes = {
+					24B7E7461D2E2C4B00041253 = {
+						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = H3YT5SBQ67;
+					};
+				};
+			};
+			buildConfigurationList = 24B7E7421D2E2C4B00041253 /* Build configuration list for PBXProject "Wechat Code Edition" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 24B7E73E1D2E2C4B00041253;
+			productRefGroup = 24B7E7481D2E2C4B00041253 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				24B7E7461D2E2C4B00041253 /* Wechat Code Edition */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		24B7E7451D2E2C4B00041253 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24B7E7AB1D2E3EC400041253 /* tabbar_badge@3x.png in Resources */,
+				24B7E7A01D2E3EC400041253 /* AppIcon29x29@2x.png in Resources */,
+				24B7E7A61D2E3EC400041253 /* 2x.png in Resources */,
+				24B7E7A11D2E3EC400041253 /* AppIcon29x29@3x.png in Resources */,
+				24B7E7A81D2E3EC400041253 /* Retin4.png in Resources */,
+				24B7E7BB1D2E3EC400041253 /* tabbar_meHL@3x.png in Resources */,
+				24B7E7B01D2E3EC400041253 /* tabbar_discover@2x.png in Resources */,
+				24B7E7AA1D2E3EC400041253 /* tabbar_badge@2x.png in Resources */,
+				24B7E75A1D2E2C4B00041253 /* LaunchScreen.storyboard in Resources */,
+				24B7E7A91D2E3EC400041253 /* RetinHD5.5.png in Resources */,
+				24B7E7A31D2E3EC400041253 /* AppIcon40x40@3x.png in Resources */,
+				24B7E7B81D2E3EC400041253 /* tabbar_me@2x.png in Resources */,
+				24B7E79F1D2E3EC400041253 /* CE5E089465BD6BE881BD272CA0F36A23.png in Resources */,
+				24B7E7571D2E2C4B00041253 /* Assets.xcassets in Resources */,
+				24B7E7A51D2E3EC400041253 /* AppIcon60x60@3x.png in Resources */,
+				24B7E7AD1D2E3EC400041253 /* tabbar_contacts@3x.png in Resources */,
+				24B7E7B31D2E3EC400041253 /* tabbar_discoverHL@3x.png in Resources */,
+				24B7E79E1D2E3EC400041253 /* aroundfriends_bar_bg@2x.png in Resources */,
+				24B7E7B21D2E3EC400041253 /* tabbar_discoverHL@2x.png in Resources */,
+				24B7E7B61D2E3EC400041253 /* tabbar_mainframeHL@2x.png in Resources */,
+				24B7E7B11D2E3EC400041253 /* tabbar_discover@3x.png in Resources */,
+				24B7E7B91D2E3EC400041253 /* tabbar_me@3x.png in Resources */,
+				24B7E7AC1D2E3EC400041253 /* tabbar_contacts@2x.png in Resources */,
+				24B7E7A21D2E3EC400041253 /* AppIcon40x40@2x.png in Resources */,
+				24B7E7AF1D2E3EC400041253 /* tabbar_contactsHL@3x.png in Resources */,
+				24B7E7A71D2E3EC400041253 /* HD4.7@2x.png in Resources */,
+				24B7E7AE1D2E3EC400041253 /* tabbar_contactsHL@2x.png in Resources */,
+				24B7E7551D2E2C4B00041253 /* Main.storyboard in Resources */,
+				24B7E79C1D2E3EC400041253 /* AE1286066624165654BE4BE843AB8B80.png in Resources */,
+				24B7E7A41D2E3EC400041253 /* AppIcon60x60@2x.png in Resources */,
+				24B7E79D1D2E3EC400041253 /* AlbumCommentHorizontalLine@2x.png in Resources */,
+				24B7E7B71D2E3EC400041253 /* tabbar_mainframeHL@3x.png in Resources */,
+				24B7E7B51D2E3EC400041253 /* tabbar_mainframe@3x.png in Resources */,
+				24B7E7BC1D2E3EC400041253 /* tabbarBkg@2x.png in Resources */,
+				24B7E7BA1D2E3EC400041253 /* tabbar_meHL@2x.png in Resources */,
+				24B7E7B41D2E3EC400041253 /* tabbar_mainframe@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		24B7E7431D2E2C4B00041253 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24B7E76D1D2E30CB00041253 /* WechatViewController.m in Sources */,
+				24B7E7631D2E2DB800041253 /* TabBarController.m in Sources */,
+				24B7E7761D2E30EC00041253 /* MeViewController.m in Sources */,
+				24B7E7701D2E30D800041253 /* ContactsViewController.m in Sources */,
+				24B7E7731D2E30E300041253 /* DiscoveryViewController.m in Sources */,
+				24B7E74F1D2E2C4B00041253 /* AppDelegate.m in Sources */,
+				24B7E74C1D2E2C4B00041253 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		24B7E7531D2E2C4B00041253 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24B7E7541D2E2C4B00041253 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		24B7E7581D2E2C4B00041253 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24B7E7591D2E2C4B00041253 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		24B7E75C1D2E2C4B00041253 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		24B7E75D1D2E2C4B00041253 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		24B7E75F1D2E2C4B00041253 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H3YT5SBQ67;
+				INFOPLIST_FILE = "Wechat Code Edition/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "---.Wechat-Code-Edition";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		24B7E7601D2E2C4B00041253 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H3YT5SBQ67;
+				INFOPLIST_FILE = "Wechat Code Edition/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "---.Wechat-Code-Edition";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		24B7E7421D2E2C4B00041253 /* Build configuration list for PBXProject "Wechat Code Edition" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24B7E75C1D2E2C4B00041253 /* Debug */,
+				24B7E75D1D2E2C4B00041253 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24B7E75E1D2E2C4B00041253 /* Build configuration list for PBXNativeTarget "Wechat Code Edition" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24B7E75F1D2E2C4B00041253 /* Debug */,
+				24B7E7601D2E2C4B00041253 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 24B7E73F1D2E2C4B00041253 /* Project object */;
+}

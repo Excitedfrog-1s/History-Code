@@ -1,0 +1,9 @@
+F:\VS Project\Prototype Winform\播放音乐\bin\Debug\播放音乐.exe.config
+F:\VS Project\Prototype Winform\播放音乐\bin\Debug\播放音乐.exe
+F:\VS Project\Prototype Winform\播放音乐\bin\Debug\播放音乐.pdb
+F:\VS Project\Prototype Winform\播放音乐\obj\Debug\播放音乐.csprojResolveAssemblyReference.cache
+F:\VS Project\Prototype Winform\播放音乐\obj\Debug\播放音乐.Form1.resources
+F:\VS Project\Prototype Winform\播放音乐\obj\Debug\播放音乐.Properties.Resources.resources
+F:\VS Project\Prototype Winform\播放音乐\obj\Debug\播放音乐.csproj.GenerateResource.Cache
+F:\VS Project\Prototype Winform\播放音乐\obj\Debug\播放音乐.exe
+F:\VS Project\Prototype Winform\播放音乐\obj\Debug\播放音乐.pdb

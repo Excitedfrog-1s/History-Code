@@ -1,0 +1,2 @@
+F:\VS Project\HLY C#\Prototype\ArrayList\bin\Debug\ArrayList.exe.config
+F:\VS Project\HLY C#\Prototype\ArrayList\obj\Debug\ArrayList.csprojResolveAssemblyReference.cache

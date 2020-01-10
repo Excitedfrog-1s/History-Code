@@ -1,0 +1,8 @@
+F:\VS Project\HLY C#\Prototype\List泛型集合\bin\Debug\List泛型集合.exe.config
+F:\VS Project\HLY C#\Prototype\List泛型集合\bin\Debug\List泛型集合.exe
+F:\VS Project\HLY C#\Prototype\List泛型集合\bin\Debug\List泛型集合.pdb
+F:\VS Project\HLY C#\Prototype\List泛型集合\obj\Debug\List泛型集合.csprojResolveAssemblyReference.cache
+F:\VS Project\HLY C#\Prototype\List泛型集合\obj\Debug\List泛型集合.exe
+F:\VS Project\HLY C#\Prototype\List泛型集合\obj\Debug\List泛型集合.pdb
+F:\VS Project\HLY C#\Prototype\List泛型集合\bin\Debug\List泛型集合.exe.CodeAnalysisLog.xml
+F:\VS Project\HLY C#\Prototype\List泛型集合\bin\Debug\List泛型集合.exe.lastcodeanalysissucceeded

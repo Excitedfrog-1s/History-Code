@@ -1,0 +1,6 @@
+F:\VS Project\HLY C#\Prototype\Prototype\bin\Debug\Prototype.exe.config
+F:\VS Project\HLY C#\Prototype\Prototype\bin\Debug\Prototype.exe
+F:\VS Project\HLY C#\Prototype\Prototype\bin\Debug\Prototype.pdb
+F:\VS Project\HLY C#\Prototype\Prototype\obj\Debug\Prototype.exe
+F:\VS Project\HLY C#\Prototype\Prototype\obj\Debug\Prototype.pdb
+F:\VS Project\HLY C#\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache

@@ -1,0 +1,32 @@
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\bin\Debug\App.xbf
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\bin\Debug\MainPage.xbf
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\bin\Debug\Prototype Phone.xr.xml
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\bin\Debug\Prototype Phone.exe
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\bin\Debug\Prototype Phone.pdb
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\bin\Debug\resources.pri
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\bin\Debug\AppxManifest.xml
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\bin\Debug\Prototype Phone.build.appxrecipe
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\App.g.i.cs
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\App.g.cs
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\MainPage.g.i.cs
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\MainPage.g.cs
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\XamlTypeInfo.g.cs
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\App.xaml
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\App.xbf
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\XamlSaveStateFile.xml
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\MainPage.xaml
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\MainPage.xbf
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\Prototype Phone.exe
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\Prototype Phone.pdb
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\priconfig.xml
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\priconfig.xml.intermediate
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\layout.resfiles
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\layout.resfiles.intermediate
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\resources.resfiles
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\resources.resfiles.intermediate
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\pri.resfiles
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\pri.resfiles.intermediate
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\qualifiers.txt
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\qualifiers.txt.intermediate
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\VS Project\Windows Phone\Prototype Phone\Prototype Phone\obj\Debug\ProjectArchitectures.txt

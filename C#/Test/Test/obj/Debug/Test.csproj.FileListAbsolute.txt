@@ -1,0 +1,2 @@
+F:\VS Project\HLY C#\Test\Test\bin\Debug\Test.exe.config
+F:\VS Project\HLY C#\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

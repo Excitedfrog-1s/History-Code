@@ -1,0 +1,9 @@
+F:\VS Project\Prototype Winform\实现点击更换照片\bin\Debug\实现点击更换照片.exe.config
+F:\VS Project\Prototype Winform\实现点击更换照片\bin\Debug\实现点击更换照片.exe
+F:\VS Project\Prototype Winform\实现点击更换照片\bin\Debug\实现点击更换照片.pdb
+F:\VS Project\Prototype Winform\实现点击更换照片\obj\Debug\实现点击更换照片.csprojResolveAssemblyReference.cache
+F:\VS Project\Prototype Winform\实现点击更换照片\obj\Debug\实现点击更换照片.Form1.resources
+F:\VS Project\Prototype Winform\实现点击更换照片\obj\Debug\实现点击更换照片.Properties.Resources.resources
+F:\VS Project\Prototype Winform\实现点击更换照片\obj\Debug\实现点击更换照片.csproj.GenerateResource.Cache
+F:\VS Project\Prototype Winform\实现点击更换照片\obj\Debug\实现点击更换照片.exe
+F:\VS Project\Prototype Winform\实现点击更换照片\obj\Debug\实现点击更换照片.pdb

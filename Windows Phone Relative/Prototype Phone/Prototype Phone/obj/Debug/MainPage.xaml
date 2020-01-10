@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="Prototype_Phone.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Prototype_Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Button x:ConnectionId='1'                         Content="图书维护" HorizontalAlignment="Left" Margin="44,71,0,0" VerticalAlignment="Top" Height="92" Width="175"/>
+        <Button x:ConnectionId='2'                           Content="读者维护" HorizontalAlignment="Left" Margin="44,182,0,0" VerticalAlignment="Top" Height="89" Width="175"/>
+        <Button x:ConnectionId='3'                Content="借书" HorizontalAlignment="Left" Margin="44,304,0,0" VerticalAlignment="Top" Height="87" Width="175"/>
+        <Button x:ConnectionId='4'                Content="还书" HorizontalAlignment="Left" Margin="44,427,0,0" VerticalAlignment="Top" Height="85" Width="175"/>
+        <Button x:ConnectionId='5'              Content="退出" HorizontalAlignment="Left" Margin="44,547,0,0" VerticalAlignment="Top" Height="89" Width="175"/>
+        <DatePicker HorizontalAlignment="Left" Margin="264,0,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.043,0.296"/>
+    </Grid>
+</Page>
+

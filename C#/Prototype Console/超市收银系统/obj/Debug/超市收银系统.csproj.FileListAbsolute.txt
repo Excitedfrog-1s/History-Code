@@ -1,0 +1,21 @@
+F:\VS Project\HLY C#\Prototype\超市收银系统\bin\Debug\超市收银系统.exe.config
+F:\VS Project\HLY C#\Prototype\超市收银系统\bin\Debug\超市收银系统.exe
+F:\VS Project\HLY C#\Prototype\超市收银系统\bin\Debug\超市收银系统.pdb
+F:\VS Project\HLY C#\Prototype\超市收银系统\obj\Debug\超市收银系统.csprojResolveAssemblyReference.cache
+F:\VS Project\HLY C#\Prototype\超市收银系统\obj\Debug\超市收银系统.exe
+F:\VS Project\HLY C#\Prototype\超市收银系统\obj\Debug\超市收银系统.pdb
+F:\VS Project\HLY C#\Prototype Console\超市收银系统\bin\Debug\超市收银系统.exe.config
+F:\VS Project\HLY C#\Prototype Console\超市收银系统\obj\Debug\超市收银系统.exe
+F:\VS Project\HLY C#\Prototype Console\超市收银系统\obj\Debug\超市收银系统.pdb
+F:\VS Project\HLY C#\Prototype Console\超市收银系统\bin\Debug\超市收银系统.exe
+F:\VS Project\HLY C#\Prototype Console\超市收银系统\bin\Debug\超市收银系统.pdb
+F:\VS Project\HLY C#\Prototype Console\超市收银系统\obj\Debug\超市收银系统.csprojResolveAssemblyReference.cache
+E:\VS Project\HLY C#\Prototype Console\超市收银系统\bin\Debug\超市收银系统.exe.config
+E:\VS Project\HLY C#\Prototype Console\超市收银系统\obj\Debug\超市收银系统.exe
+E:\VS Project\HLY C#\Prototype Console\超市收银系统\obj\Debug\超市收银系统.pdb
+F:\Coding\VS Project\HLY C#\Prototype Console\超市收银系统\bin\Debug\超市收银系统.exe.config
+F:\Coding\VS Project\HLY C#\Prototype Console\超市收银系统\bin\Debug\超市收银系统.exe
+F:\Coding\VS Project\HLY C#\Prototype Console\超市收银系统\bin\Debug\超市收银系统.pdb
+F:\Coding\VS Project\HLY C#\Prototype Console\超市收银系统\obj\Debug\超市收银系统.csprojResolveAssemblyReference.cache
+F:\Coding\VS Project\HLY C#\Prototype Console\超市收银系统\obj\Debug\超市收银系统.exe
+F:\Coding\VS Project\HLY C#\Prototype Console\超市收银系统\obj\Debug\超市收银系统.pdb

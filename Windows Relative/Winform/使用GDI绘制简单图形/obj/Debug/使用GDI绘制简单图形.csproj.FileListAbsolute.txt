@@ -1,0 +1,9 @@
+F:\VS Project\Prototype Winform\使用GDI绘制简单图形\bin\Debug\使用GDI绘制简单图形.exe.config
+F:\VS Project\Prototype Winform\使用GDI绘制简单图形\bin\Debug\使用GDI绘制简单图形.exe
+F:\VS Project\Prototype Winform\使用GDI绘制简单图形\bin\Debug\使用GDI绘制简单图形.pdb
+F:\VS Project\Prototype Winform\使用GDI绘制简单图形\obj\Debug\使用GDI绘制简单图形.csprojResolveAssemblyReference.cache
+F:\VS Project\Prototype Winform\使用GDI绘制简单图形\obj\Debug\使用GDI绘制简单图形.Form1.resources
+F:\VS Project\Prototype Winform\使用GDI绘制简单图形\obj\Debug\使用GDI绘制简单图形.Properties.Resources.resources
+F:\VS Project\Prototype Winform\使用GDI绘制简单图形\obj\Debug\使用GDI绘制简单图形.csproj.GenerateResource.Cache
+F:\VS Project\Prototype Winform\使用GDI绘制简单图形\obj\Debug\使用GDI绘制简单图形.exe
+F:\VS Project\Prototype Winform\使用GDI绘制简单图形\obj\Debug\使用GDI绘制简单图形.pdb

@@ -1,0 +1,8 @@
+F:\VS Project\HLY C#\Prototype\命名空间\obj\Debug\命名空间.csprojResolveAssemblyReference.cache
+F:\VS Project\HLY C#\Prototype\命名空间\bin\Debug\命名空间.exe.config
+F:\VS Project\HLY C#\Prototype\命名空间\bin\Debug\命名空间.exe
+F:\VS Project\HLY C#\Prototype\命名空间\bin\Debug\命名空间.pdb
+F:\VS Project\HLY C#\Prototype\命名空间\bin\Debug\Prototype.exe
+F:\VS Project\HLY C#\Prototype\命名空间\bin\Debug\Prototype.pdb
+F:\VS Project\HLY C#\Prototype\命名空间\obj\Debug\命名空间.exe
+F:\VS Project\HLY C#\Prototype\命名空间\obj\Debug\命名空间.pdb

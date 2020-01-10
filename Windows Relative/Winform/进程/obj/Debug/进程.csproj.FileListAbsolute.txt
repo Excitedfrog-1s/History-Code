@@ -1,0 +1,5 @@
+F:\VS Project\Prototype Winform\进程\bin\Debug\进程.exe.config
+F:\VS Project\Prototype Winform\进程\bin\Debug\进程.exe
+F:\VS Project\Prototype Winform\进程\bin\Debug\进程.pdb
+F:\VS Project\Prototype Winform\进程\obj\Debug\进程.exe
+F:\VS Project\Prototype Winform\进程\obj\Debug\进程.pdb

@@ -1,0 +1,9 @@
+F:\VS Project\Prototype Winform\浏览器控件\bin\Debug\浏览器控件.exe.config
+F:\VS Project\Prototype Winform\浏览器控件\bin\Debug\浏览器控件.exe
+F:\VS Project\Prototype Winform\浏览器控件\bin\Debug\浏览器控件.pdb
+F:\VS Project\Prototype Winform\浏览器控件\obj\Debug\浏览器控件.csprojResolveAssemblyReference.cache
+F:\VS Project\Prototype Winform\浏览器控件\obj\Debug\浏览器控件.Form1.resources
+F:\VS Project\Prototype Winform\浏览器控件\obj\Debug\浏览器控件.Properties.Resources.resources
+F:\VS Project\Prototype Winform\浏览器控件\obj\Debug\浏览器控件.csproj.GenerateResource.Cache
+F:\VS Project\Prototype Winform\浏览器控件\obj\Debug\浏览器控件.exe
+F:\VS Project\Prototype Winform\浏览器控件\obj\Debug\浏览器控件.pdb

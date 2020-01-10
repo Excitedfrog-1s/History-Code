@@ -1,0 +1,9 @@
+F:\VS Project\HLY C#\Prototype\接口的特点\bin\Debug\接口的特点.exe.config
+F:\VS Project\HLY C#\Prototype\接口的特点\bin\Debug\接口的特点.exe
+F:\VS Project\HLY C#\Prototype\接口的特点\bin\Debug\接口的特点.pdb
+F:\VS Project\HLY C#\Prototype\接口的特点\obj\Debug\接口的特点.csprojResolveAssemblyReference.cache
+F:\VS Project\HLY C#\Prototype\接口的特点\obj\Debug\接口的特点.exe
+F:\VS Project\HLY C#\Prototype\接口的特点\obj\Debug\接口的特点.pdb
+F:\VS Project\HLY C#\Prototype Console\接口的特点\bin\Debug\接口的特点.exe.config
+F:\VS Project\HLY C#\Prototype Console\接口的特点\obj\Debug\接口的特点.exe
+F:\VS Project\HLY C#\Prototype Console\接口的特点\obj\Debug\接口的特点.pdb

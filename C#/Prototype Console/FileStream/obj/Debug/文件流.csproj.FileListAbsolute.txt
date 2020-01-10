@@ -1,0 +1,10 @@
+F:\VS Project\HLY C#\Prototype\FileStream\bin\Debug\FileStream.exe.config
+F:\VS Project\HLY C#\Prototype\FileStream\bin\Debug\FileStream.exe
+F:\VS Project\HLY C#\Prototype\FileStream\bin\Debug\FileStream.pdb
+F:\VS Project\HLY C#\Prototype\FileStream\obj\Debug\FileStream.exe
+F:\VS Project\HLY C#\Prototype\FileStream\obj\Debug\FileStream.pdb
+F:\VS Project\HLY C#\Prototype\FileStream\bin\Debug\FileStream.exe.CodeAnalysisLog.xml
+F:\VS Project\HLY C#\Prototype\FileStream\bin\Debug\FileStream.exe.lastcodeanalysissucceeded
+F:\VS Project\HLY C#\Prototype Console\FileStream\bin\Debug\FileStream.exe.config
+F:\VS Project\HLY C#\Prototype Console\FileStream\obj\Debug\FileStream.exe
+F:\VS Project\HLY C#\Prototype Console\FileStream\obj\Debug\FileStream.pdb

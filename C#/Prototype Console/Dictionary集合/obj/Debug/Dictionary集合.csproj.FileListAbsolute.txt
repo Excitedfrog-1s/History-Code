@@ -1,0 +1,11 @@
+F:\VS Project\HLY C#\Prototype\Dictionary集合\bin\Debug\Dictionary集合.exe.config
+F:\VS Project\HLY C#\Prototype\Dictionary集合\bin\Debug\Dictionary集合.exe
+F:\VS Project\HLY C#\Prototype\Dictionary集合\bin\Debug\Dictionary集合.pdb
+F:\VS Project\HLY C#\Prototype\Dictionary集合\obj\Debug\Dictionary集合.csprojResolveAssemblyReference.cache
+F:\VS Project\HLY C#\Prototype\Dictionary集合\obj\Debug\Dictionary集合.exe
+F:\VS Project\HLY C#\Prototype\Dictionary集合\obj\Debug\Dictionary集合.pdb
+F:\VS Project\HLY C#\Prototype\Dictionary集合\bin\Debug\Dictionary集合.exe.CodeAnalysisLog.xml
+F:\VS Project\HLY C#\Prototype\Dictionary集合\bin\Debug\Dictionary集合.exe.lastcodeanalysissucceeded
+F:\VS Project\HLY C#\Prototype Console\Dictionary集合\bin\Debug\Dictionary集合.exe.config
+F:\VS Project\HLY C#\Prototype Console\Dictionary集合\obj\Debug\Dictionary集合.exe
+F:\VS Project\HLY C#\Prototype Console\Dictionary集合\obj\Debug\Dictionary集合.pdb

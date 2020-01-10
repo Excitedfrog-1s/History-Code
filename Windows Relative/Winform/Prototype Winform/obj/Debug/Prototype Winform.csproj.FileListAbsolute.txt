@@ -1,0 +1,14 @@
+F:\VS Project\Prototype Winform\Prototype Winform\bin\Debug\Prototype Winform.exe.config
+F:\VS Project\Prototype Winform\Prototype Winform\bin\Debug\Prototype Winform.exe
+F:\VS Project\Prototype Winform\Prototype Winform\bin\Debug\Prototype Winform.pdb
+F:\VS Project\Prototype Winform\Prototype Winform\obj\Debug\Prototype Winform.csprojResolveAssemblyReference.cache
+F:\VS Project\Prototype Winform\Prototype Winform\obj\Debug\Prototype_Winform.Properties.Resources.resources
+F:\VS Project\Prototype Winform\Prototype Winform\obj\Debug\Prototype Winform.csproj.GenerateResource.Cache
+F:\VS Project\Prototype Winform\Prototype Winform\obj\Debug\Prototype Winform.exe
+F:\VS Project\Prototype Winform\Prototype Winform\obj\Debug\Prototype Winform.pdb
+F:\VS Project\Prototype Winform\Prototype Winform\obj\Debug\Prototype_Winform.Form1.resources
+F:\VS Project\Prototype Winform\Prototype Winform\obj\Debug\Prototype_Winform.Form2.resources
+F:\VS Project\Prototype Winform\Prototype Winform\obj\Debug\Prototype_Winform.Form3.resources
+E:\VS Project\Prototype Winform\Prototype Winform\bin\Debug\Prototype Winform.exe.config
+E:\VS Project\Prototype Winform\Prototype Winform\obj\Debug\Prototype Winform.exe
+E:\VS Project\Prototype Winform\Prototype Winform\obj\Debug\Prototype Winform.pdb

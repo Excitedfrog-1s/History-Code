@@ -1,0 +1,8 @@
+F:\VS Project\Prototype Winform\Panel\bin\Debug\Panel.exe.config
+F:\VS Project\Prototype Winform\Panel\bin\Debug\Panel.exe
+F:\VS Project\Prototype Winform\Panel\bin\Debug\Panel.pdb
+F:\VS Project\Prototype Winform\Panel\obj\Debug\Panel.Form1.resources
+F:\VS Project\Prototype Winform\Panel\obj\Debug\Panel.Properties.Resources.resources
+F:\VS Project\Prototype Winform\Panel\obj\Debug\Panel.csproj.GenerateResource.Cache
+F:\VS Project\Prototype Winform\Panel\obj\Debug\Panel.exe
+F:\VS Project\Prototype Winform\Panel\obj\Debug\Panel.pdb

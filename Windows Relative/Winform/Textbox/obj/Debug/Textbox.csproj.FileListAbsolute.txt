@@ -1,0 +1,8 @@
+F:\VS Project\Prototype Winform\Textbox\bin\Debug\Textbox.exe.config
+F:\VS Project\Prototype Winform\Textbox\bin\Debug\Textbox.exe
+F:\VS Project\Prototype Winform\Textbox\bin\Debug\Textbox.pdb
+F:\VS Project\Prototype Winform\Textbox\obj\Debug\Textbox.Form1.resources
+F:\VS Project\Prototype Winform\Textbox\obj\Debug\Textbox.Properties.Resources.resources
+F:\VS Project\Prototype Winform\Textbox\obj\Debug\Textbox.csproj.GenerateResource.Cache
+F:\VS Project\Prototype Winform\Textbox\obj\Debug\Textbox.exe
+F:\VS Project\Prototype Winform\Textbox\obj\Debug\Textbox.pdb

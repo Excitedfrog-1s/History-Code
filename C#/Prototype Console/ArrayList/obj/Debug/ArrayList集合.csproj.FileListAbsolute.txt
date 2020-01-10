@@ -1,0 +1,14 @@
+F:\VS Project\HLY C#\Prototype\ArrayList\bin\Debug\ArrayList.exe.config
+F:\VS Project\HLY C#\Prototype\ArrayList\bin\Debug\ArrayList.exe
+F:\VS Project\HLY C#\Prototype\ArrayList\bin\Debug\ArrayList.pdb
+F:\VS Project\HLY C#\Prototype\ArrayList\obj\Debug\ArrayList.exe
+F:\VS Project\HLY C#\Prototype\ArrayList\obj\Debug\ArrayList.pdb
+F:\VS Project\HLY C#\Prototype\ArrayList\obj\Debug\ArrayList集合.csprojResolveAssemblyReference.cache
+F:\VS Project\HLY C#\Prototype\ArrayList\bin\Debug\ArrayList.exe.CodeAnalysisLog.xml
+F:\VS Project\HLY C#\Prototype\ArrayList\bin\Debug\ArrayList.exe.lastcodeanalysissucceeded
+F:\VS Project\HLY C#\Prototype Console\ArrayList\bin\Debug\ArrayList.exe.config
+F:\VS Project\HLY C#\Prototype Console\ArrayList\obj\Debug\ArrayList.exe
+F:\VS Project\HLY C#\Prototype Console\ArrayList\obj\Debug\ArrayList.pdb
+E:\VS Project\HLY C#\Prototype Console\ArrayList\bin\Debug\ArrayList.exe.config
+E:\VS Project\HLY C#\Prototype Console\ArrayList\obj\Debug\ArrayList.exe
+E:\VS Project\HLY C#\Prototype Console\ArrayList\obj\Debug\ArrayList.pdb

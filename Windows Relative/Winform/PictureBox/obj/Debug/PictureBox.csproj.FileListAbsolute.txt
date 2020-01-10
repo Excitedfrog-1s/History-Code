@@ -1,0 +1,8 @@
+F:\VS Project\Prototype Winform\PictureBox\bin\Debug\PictureBox.exe.config
+F:\VS Project\Prototype Winform\PictureBox\bin\Debug\PictureBox.exe
+F:\VS Project\Prototype Winform\PictureBox\bin\Debug\PictureBox.pdb
+F:\VS Project\Prototype Winform\PictureBox\obj\Debug\PictureBox.Form1.resources
+F:\VS Project\Prototype Winform\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+F:\VS Project\Prototype Winform\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.Cache
+F:\VS Project\Prototype Winform\PictureBox\obj\Debug\PictureBox.exe
+F:\VS Project\Prototype Winform\PictureBox\obj\Debug\PictureBox.pdb

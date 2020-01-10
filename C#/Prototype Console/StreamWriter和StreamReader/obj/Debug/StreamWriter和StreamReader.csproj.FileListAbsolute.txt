@@ -1,0 +1,10 @@
+F:\VS Project\HLY C#\Prototype\StreamWriter和StreamReader\bin\Debug\StreamWriter和StreamReader.exe.config
+F:\VS Project\HLY C#\Prototype\StreamWriter和StreamReader\bin\Debug\StreamWriter和StreamReader.exe
+F:\VS Project\HLY C#\Prototype\StreamWriter和StreamReader\bin\Debug\StreamWriter和StreamReader.pdb
+F:\VS Project\HLY C#\Prototype\StreamWriter和StreamReader\obj\Debug\StreamWriter和StreamReader.exe
+F:\VS Project\HLY C#\Prototype\StreamWriter和StreamReader\obj\Debug\StreamWriter和StreamReader.pdb
+F:\VS Project\HLY C#\Prototype\StreamWriter和StreamReader\bin\Debug\StreamWriter和StreamReader.exe.CodeAnalysisLog.xml
+F:\VS Project\HLY C#\Prototype\StreamWriter和StreamReader\bin\Debug\StreamWriter和StreamReader.exe.lastcodeanalysissucceeded
+F:\VS Project\HLY C#\Prototype Console\StreamWriter和StreamReader\bin\Debug\StreamWriter和StreamReader.exe.config
+F:\VS Project\HLY C#\Prototype Console\StreamWriter和StreamReader\obj\Debug\StreamWriter和StreamReader.exe
+F:\VS Project\HLY C#\Prototype Console\StreamWriter和StreamReader\obj\Debug\StreamWriter和StreamReader.pdb

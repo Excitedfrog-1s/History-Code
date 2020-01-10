@@ -1,0 +1,9 @@
+F:\VS Project\Prototype Winform\单选和多选\bin\Debug\单选和多选.exe.config
+F:\VS Project\Prototype Winform\单选和多选\bin\Debug\单选和多选.exe
+F:\VS Project\Prototype Winform\单选和多选\bin\Debug\单选和多选.pdb
+F:\VS Project\Prototype Winform\单选和多选\obj\Debug\单选和多选.csprojResolveAssemblyReference.cache
+F:\VS Project\Prototype Winform\单选和多选\obj\Debug\单选和多选.Form1.resources
+F:\VS Project\Prototype Winform\单选和多选\obj\Debug\单选和多选.Properties.Resources.resources
+F:\VS Project\Prototype Winform\单选和多选\obj\Debug\单选和多选.csproj.GenerateResource.Cache
+F:\VS Project\Prototype Winform\单选和多选\obj\Debug\单选和多选.exe
+F:\VS Project\Prototype Winform\单选和多选\obj\Debug\单选和多选.pdb
